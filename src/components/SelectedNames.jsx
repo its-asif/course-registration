@@ -1,9 +1,9 @@
 
 
 const SelectedNames= ({x}) => {
-    console.log(x);
+    // console.log(x);
     return (
-           <li>{x}</li>
+           <li className="font-light text-sm text-gray-500 my-2">{x}</li>
 
        
     );

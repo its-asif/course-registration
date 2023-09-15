@@ -3,7 +3,7 @@
     "id": 1,
     "cover": "https://i.ibb.co/fQWMnJM/1.png",
     "title": "Introduction to C Programming",
-    "details": "Learn C Programming fundamentals in this course.",
+    "details": "This course provides a comprehensive introduction to the fundamentals of C Programming. You will learn the basics of C syntax, data types, control structures, and more. Suitable for beginners.",
     "price": 15000,
     "credit": 1
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "cover": "https://i.ibb.co/kDW91Sv/2.png",
     "title": "Introduction to Algorithms",
-    "details": "Master algorithms with our introductory course.",
+    "details": "Master the world of algorithms with our introductory course. Explore various algorithmic techniques and problem-solving strategies. Prior programming experience is recommended.",
     "price": 25000,
     "credit": 2
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "cover": "https://i.ibb.co/nzvFTDZ/3.png",
     "title": "Introduction to C++ for DSA",
-    "details": "Combine C++ and Data Structures for problem-solving.",
+    "details": "Combine C++ programming with Data Structures and Algorithms to build a strong foundation in problem-solving. This course is suitable for those with prior programming knowledge.",
     "price": 10000,
     "credit": 10
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "cover": "https://i.ibb.co/gDXhx95/4.png",
     "title": "Basic Data Structures",
-    "details": "Explore essential data structures and applications.",
+    "details": "Explore essential data structures such as arrays, linked lists, and trees, and their real-world applications. Prior programming experience is recommended.",
     "price": 35000,
     "credit": 5
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "cover": "https://i.ibb.co/QYZRQdq/5.png",
     "title": "Introduction to CQP Python",
-    "details": "Intro to Python for Computational and Quantum Programming.",
+    "details": "An introduction to Python programming for Computational and Quantum Programming. Dive into Python's applications in quantum computing and simulations.",
     "price": 19000,
     "credit": 5
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "cover": "https://i.ibb.co/nDrTsnv/6.png",
     "title": "Software Engineering",
-    "details": "Learn software engineering principles and practices.",
+    "details": "Learn the principles and practices of software engineering, including software development methodologies, project management, and quality assurance.",
     "price": 10000,
     "credit": 2
   },
@@ -51,7 +51,7 @@
       "id": 7,
       "cover": "https://i.ibb.co/3B2VbRy/7.png",
       "title": "AWS, Cloud Computing",
-      "details": "Master the AWS and Cloud Computing with us.",
+      "details": "Master Amazon Web Services (AWS) and the world of Cloud Computing. Explore cloud infrastructure, services, and deployment strategies.",
       "price": 35000,
       "credit": 5
   },
@@ -59,7 +59,7 @@
       "id": 8,
       "cover": "https://i.ibb.co/tpYxSKX/8.png",
       "title": "Database (MySQL)",
-      "details": "Experience MySQL Database Management.",
+      "details": "Gain hands-on experience in MySQL Database Management. Learn database design, SQL queries, and data manipulation.",
       "price": 19000,
       "credit": 5
   },
@@ -67,7 +67,7 @@
       "id": 9,
       "cover": "https://i.ibb.co/ngy9tCW/9.png",
       "title": "Problem-Solving Part",
-      "details": "Develop problem-solving skills interactively.",
+      "details": "Develop your problem-solving skills interactively. Solve coding challenges and logical puzzles to enhance your analytical thinking.",
       "price": 23000,
       "credit": 2
   }

@@ -3,6 +3,7 @@ import './App.css'
 import Header from './components/Header'
 import Courses from './components/Courses'
 import SelectedCourses from './components/SelectedCourses'
+import toast, { Toaster } from 'react-hot-toast';
 
 function App() {
   const [ courses, setCourses] = useState([]);
@@ -20,15 +21,29 @@ function App() {
         setCourses(temporary);
         setSum(sum + price);
       }
-      else  alert('negative bruhhh');
+      else {
+        toast('This course exceeds your credit limit!',
+          {
+            icon: '😔',
+            style: {
+              borderRadius: '10px',
+              background: '#333',
+              color: '#fff',
+            },
+          }
+        );
+      }
     }
-    else alert('toast bruh')
+    else {
+      toast.error("Already Selected.")
+    }
 
   }
   
 
   return (
     <div>
+      <div><Toaster/></div>
       <div className='m-10 '>
         <Header></Header>
         <main className='flex'>
