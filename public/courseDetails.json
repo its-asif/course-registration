@@ -1,74 +1,74 @@
 [
-    {
-      "id": 1,
-      "cover": "https://ibb.co/r5gS0sL",
-      "title": "Introduction to C Programming",
-      "details": "Learn the fundamentals of C Programming in this comprehensive course.",
-      "price": 15000,
-      "credit": 1
-    },
-    {
-      "id": 2,
-      "cover": "https://ibb.co/JjryNtQ",
-      "title": "Introduction to Algorithms",
-      "details": "Master the world of algorithms with our introductory course.",
-      "price": 25000,
-      "credit": 2
-    },
-    {
-      "id": 3,
-      "cover": "https://ibb.co/t36BxRB",
-      "title": "Introduction to C++ for DSA",
-      "details": "Combine C++ and Data Structures for a solid foundation in problem-solving.",
-      "price": 10000,
-      "credit": 10
-    },
-    {
-      "id": 4,
-      "cover": "https://ibb.co/c87CLrV",
-      "title": "Basic Data Structures",
-      "details": "Explore essential data structures and their applications.",
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/fQWMnJM/1.png",
+    "title": "Introduction to C Programming",
+    "details": "Learn C Programming fundamentals in this course.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/kDW91Sv/2.png",
+    "title": "Introduction to Algorithms",
+    "details": "Master algorithms with our introductory course.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/nzvFTDZ/3.png",
+    "title": "Introduction to C++ for DSA",
+    "details": "Combine C++ and Data Structures for problem-solving.",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/gDXhx95/4.png",
+    "title": "Basic Data Structures",
+    "details": "Explore essential data structures and applications.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/QYZRQdq/5.png",
+    "title": "Introduction to CQP Python",
+    "details": "Intro to Python for Computational and Quantum Programming.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/nDrTsnv/6.png",
+    "title": "Software Engineering",
+    "details": "Learn software engineering principles and practices.",
+    "price": 10000,
+    "credit": 2
+  },
+  {
+      "id": 7,
+      "cover": "https://i.ibb.co/3B2VbRy/7.png",
+      "title": "AWS, Cloud Computing",
+      "details": "Master the AWS and Cloud Computing with us.",
       "price": 35000,
       "credit": 5
-    },
-    {
-      "id": 5,
-      "cover": "https://ibb.co/bzZkxrq",
-      "title": "Introduction to CQP Python",
-      "details": "An introduction to Python for Computational and Quantum Programming.",
+  },
+  {
+      "id": 8,
+      "cover": "https://i.ibb.co/tpYxSKX/8.png",
+      "title": "Database (MySQL)",
+      "details": "Experience MySQL Database Management.",
       "price": 19000,
       "credit": 5
-    },
-    {
-      "id": 6,
-      "cover": "https://ibb.co/8jMJDdp",
-      "title": "Software Engineering",
-      "details": "Learn the principles and practices of software engineering.",
-      "price": 10000,
+  },
+  {
+      "id": 9,
+      "cover": "https://i.ibb.co/ngy9tCW/9.png",
+      "title": "Problem-Solving Part",
+      "details": "Develop problem-solving skills interactively.",
+      "price": 23000,
       "credit": 2
-    },
-    {
-        "id": 7,
-        "cover": "https://ibb.co/WxXZjtT",
-        "title": "AWS, Cloud Computing",
-        "details": "Master AWS and the world of Cloud Computing.",
-        "price": 35000,
-        "credit": 5
-    },
-    {
-        "id": 8,
-        "cover": "https://ibb.co/D76TZWx",
-        "title": "Database (MySQL)",
-        "details": "Get hands-on experience with MySQL Database Management.",
-        "price": 19000,
-        "credit": 5
-    },
-    {
-        "id": 9,
-        "cover": "https://ibb.co/LnmByNz",
-        "title": "Problem-Solving Part",
-        "details": "Develop your problem-solving skills with this interactive course.",
-        "price": 23000,
-        "credit": 2
-    }
-  ]
+  }
+]
