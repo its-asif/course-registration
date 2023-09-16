@@ -1,5 +1,7 @@
 # Course-Registration
 
+## [Live Link](https://course-regist.netlify.app/)
+
 ## Project Features
 - Users can click on course cards to add them to their selection list, providing an interactive and user-friendly experience.
 - The application intelligently detects and prevents users from selecting the same course multiple times, enhancing user experience and data accuracy.
